@@ -1,2 +1,2 @@
- : doms@kakao.com
+email : doms@kakao.com
 gitID : sueunal
